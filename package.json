@@ -1,0 +1,10 @@
+{ 
+  "name": "Meu Voto",
+  "version": "1.0.0",
+  "description": "A project for following politicians and viewing analytics.",
+  "main": "src/App.jsx",
+  "scripts": {},
+  "dependencies": {},
+  "author": "G-eve",
+  "license": "ISC"
+}
